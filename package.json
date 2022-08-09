@@ -1,0 +1,35 @@
+{
+  "name": "web-starter-kit-ts",
+  "version": "1.0.0",
+  "description": "Typescript based HTML starter-kit",
+  "main": "index.ts",
+  "scripts": {
+    "start": "webpack server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "eslint": "^8.18.0",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.52.3",
+    "sass-loader": "^13.0.0",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.7.4",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.182",
+    "css-loader": "^6.7.1",
+    "css-minimizer-webpack-plugin": "^4.0.0",
+    "eslint-webpack-plugin": "^3.1.1",
+    "lodash": "^4.17.21",
+    "style-loader": "^3.3.1",
+    "webpack-merge": "^5.8.0"
+  }
+}
