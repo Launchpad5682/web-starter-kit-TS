@@ -1,4 +1,5 @@
 import "./styles/index.scss";
+// Image import
 import Img from "./assets/code.jpg";
 
 // example for using the lazy loading
