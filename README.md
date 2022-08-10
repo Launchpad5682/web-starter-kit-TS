@@ -4,16 +4,16 @@ It's a simple HTML starter kit with Typescript support.
 
 ## Features
 
-[x] TS only.
-[x] HTML template.
-[x] Vendor chunks
-[x] CSS, SCSS support
-[x] Vendor Chunking
-[x] ESLint TS
-[x] Reset CSS
-[x] .png, .jpg, .svg support
-[x] Code splitting
-[x] Lazy Loading
+- TS only.
+- HTML template.
+- Vendor chunks
+- CSS, SCSS support
+- Vendor Chunking
+- ESLint TS
+- Reset CSS
+- .png, .jpg, .svg support
+- Code splitting
+- Lazy Loading
 
 ## Installation Guide
 
