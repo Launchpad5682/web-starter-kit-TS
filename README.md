@@ -2,7 +2,7 @@
 
 It's a simple HTML starter kit with Typescript support.
 
-Live link: https://monumental-maamoul-fd47e4.netlify.app/ 
+Live link: https://web-starter-kit-ts.netlify.app/
 
 ## Features
 
