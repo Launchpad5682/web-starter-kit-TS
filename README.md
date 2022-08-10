@@ -19,6 +19,7 @@ It's a simple HTML starter kit with Typescript support.
 
 - Install `degit` globally using `npm install -g degit`.
 - Bootstrap project using `degit launchpad5682/web-starter-kit-TS`.
+- Use `npm install` to install all the packages.
 
 ## Development Mode
 
