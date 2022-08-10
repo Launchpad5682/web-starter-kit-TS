@@ -2,7 +2,7 @@
 
 It's a simple HTML starter kit with Typescript support.
 
-Live link: https://github.com/Launchpad5682/web-starter-kit-TS
+Live link: https://monumental-maamoul-fd47e4.netlify.app/ 
 
 ## Features
 
