@@ -1,6 +1,7 @@
 # Web Starter Kit TS
 
 It's a simple HTML starter kit with Typescript support.
+Live link: https://github.com/Launchpad5682/web-starter-kit-TS
 
 ## Features
 
